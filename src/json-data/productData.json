@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "image": "/images/ligh-on-product-image.jpg",
+      "title": "Paint light box",
+      "realPrice": 800,
+      "cutPrice": 1200,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "image": "/images/light-of-product-image.png",
+      "title": "painting box",
+      "realPrice": 800,
+      "cutPrice": 1200,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "image": "/images/ligh-on-product-image.jpg",
+      "title": "Paint light box",
+      "realPrice": 800,
+      "cutPrice": 1200,
+      "quantity": 1
+    }
+  ]

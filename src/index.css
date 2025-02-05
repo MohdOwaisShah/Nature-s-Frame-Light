@@ -1,0 +1,17 @@
+* {
+  letter-spacing: 0.2px;
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  background-color: #424242;
+  width: 0.7vw;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #7B7B7B;
+}
+
+#root {
+  height: 100%;
+  background-color: #1E1E1E;
+}

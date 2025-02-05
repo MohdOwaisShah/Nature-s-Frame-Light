@@ -1,0 +1,46 @@
+.red-color{
+    color: #A04747;
+}
+
+nav{
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D8A25E;
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    position: fixed;
+    z-index: 80;
+}
+
+.navigation-container{
+    max-width: 100%;
+    display: flex;
+    gap: 28rem;
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+.right-navigation{
+    display: flex;
+    gap: 5rem;
+    list-style: none;
+}
+
+.fa-user,.fa-bag-shopping{
+    font-size: 1.4rem;
+}
+
+.navigation-container li,a{
+    text-decoration: none;
+    color: #343131;
+    cursor: pointer;
+}
+
+.cart-icon-number{
+    font-size: 1.3rem;
+    padding-left: 0.2rem;
+    color: #A04747;
+}

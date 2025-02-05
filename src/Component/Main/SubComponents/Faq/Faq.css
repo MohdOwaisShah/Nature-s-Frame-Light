@@ -1,0 +1,33 @@
+.sec-3-container{
+    width: 69rem;
+}
+
+.qna-container{
+    padding-bottom: 2rem;
+    user-select: none;
+}
+
+.question{
+    background-color: #A04747;
+    color: #343131;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 10rem;
+    margin-bottom: 0.2rem;
+    padding: 0.5rem 0.8rem;
+    font-size: 1.6rem;
+}
+
+.question i{
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    color: #EEEEEE;
+}
+
+.answer{
+    font-size: 1.3rem;
+    color: #A04747;
+    background-color: #422525;
+    padding: 0.4rem 0rem 0.4rem 0.8rem;
+    margin-bottom: 0.3rem;
+}

@@ -1,0 +1,100 @@
+.form-container{
+    display: flex;
+    gap: 6rem;
+}
+
+form{
+    background-image: url('/images/contact-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 24rem;
+    width: 25rem;
+    padding: 2rem 1rem;
+    border-left: 2px solid #A04747;
+}
+
+label{
+    display: block;
+    color: #EEEEEE;
+    font-size: 1.5rem;
+}
+
+form input{
+    background-color: #8f8d8ba6;    
+    color: #343131;
+    caret-color: #EEEEEE;
+    backdrop-filter: blur(2px);
+    height: 1.8rem;
+    width: 14rem;
+    border-radius: 9px;
+    border: none;
+    padding: 0rem 0.6rem;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+input:focus{
+    outline: 2px solid #EEEEEE;
+}
+
+textarea{
+    background-color: #8f8d8ba6;    
+    backdrop-filter: blur(2px);
+    color: #343131;
+    caret-color: #EEEEEE;
+    max-width: 23rem;
+    max-height: 7rem;
+    min-width: 21rem;
+    min-height: 6rem;
+    border-radius: 9px;
+    font-size: 1.2rem;
+    padding: 0.4rem 0.6rem;
+    margin-bottom: 1rem;
+}
+
+textarea:focus{
+    outline: 2px solid #EEEEEE;
+}
+
+.submit-btn{
+    height: 2rem;
+    width: 6rem;
+    font-size: 1.2rem;
+    border-radius: 9px;
+    border: 2px solid #A04747;
+    text-transform: uppercase;
+    color: #A04747;
+    background-color: #343131;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.submit-btn:hover{
+    border: 2px solid #EEEEEE;
+    color: #EEEEEE;
+    background-color: #A04747;
+}
+
+.form-text-content h2{
+    color: #EEEEEE;
+    font-size: 1.7rem;
+    margin-bottom: 0.7rem;
+}
+
+.form-text-content p{
+    color: #EEEEEE;
+    width: 24rem;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    font-family: system-ui;
+    font-weight: 470;
+    margin-bottom: 0.7rem;
+}
+
+.contact-email,.contact-number{
+    font-size: 1rem;
+    font-family: system-ui;
+    font-weight: 470;
+    color: #A47E50;
+    text-decoration: none;
+}

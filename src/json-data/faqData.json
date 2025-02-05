@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "question": "Can the lighting boxes be used outdoors?",
+        "answer": "No, Nature's Light Frames are for indoor use only, as they aren't designed for outdoor environments.",
+        "answerSize": "32.3rem"
+    },
+    {
+        "id": 2,
+        "question": "How long will it take to receive my order?",
+        "answer": "Orders are processed in 2-3 business days, with delivery typically taking 5-7 business days.",
+        "answerSize": "32.5rem"
+    },
+    {
+        "id": 3,
+        "question": "What materials are used in your lighting decoration boxes?",
+        "answer": "Our lighting boxes are made from high-quality, durable materials designed to enhance any space with beautiful illumination.",
+        "answerSize": "44.9rem"
+    },
+    {
+        "id": 4,
+        "question": "Are the lighting boxes safe for homes with children and pets?",
+        "answer": "Yes, our lighting boxes use low-voltage LED lights and are securely built to be safe for children and pets.",
+        "answerSize": "46rem"
+    }
+]
