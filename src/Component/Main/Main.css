@@ -70,7 +70,6 @@ main {
 /* section-2 */
 .section-2 {
     min-height: 30rem;
-    margin: 0rem 12.5rem;
     display: flex;
     justify-content: center;
     padding-top: 5rem;
